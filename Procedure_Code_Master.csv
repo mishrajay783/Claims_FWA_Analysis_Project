@@ -1,0 +1,6 @@
+﻿procedure_code,procedure_desc,avg_national_cost,is_high_risk
+D1234,Routine Checkup,1000,FALSE
+C5500,Minor Surgery,5000,TRUE
+S9001,Complex Imaging,10000,TRUE
+C4501,Vaccination,400,FALSE
+P0101,Lab Test,800,FALSE
